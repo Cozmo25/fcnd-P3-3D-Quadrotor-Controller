@@ -1,4 +1,4 @@
-# The C++ Project Readme #
+# FCND Quadrotor 3D Controller Project Readme #
 
 This is the readme for the C++ project.
 
